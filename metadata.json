@@ -1,0 +1,6 @@
+{
+  "name": "Mak Clothing | Premium Apparel & Performance",
+  "description": "Precision tailoring meets modern performance apparel, footwear, and athletic wear with interactive catalog, size selection, shopping bag, and checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
